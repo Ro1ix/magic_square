@@ -1,0 +1,8 @@
+C:\Users\profi\Desktop\magic_square-main\magic_square\bin\Debug\magic_square.exe.config
+C:\Users\profi\Desktop\magic_square-main\magic_square\bin\Debug\magic_square.exe
+C:\Users\profi\Desktop\magic_square-main\magic_square\bin\Debug\magic_square.pdb
+C:\Users\profi\Desktop\magic_square-main\magic_square\obj\Debug\magic_square.csproj.AssemblyReference.cache
+C:\Users\profi\Desktop\magic_square-main\magic_square\obj\Debug\magic_square.csproj.SuggestedBindingRedirects.cache
+C:\Users\profi\Desktop\magic_square-main\magic_square\obj\Debug\magic_square.csproj.CoreCompileInputs.cache
+C:\Users\profi\Desktop\magic_square-main\magic_square\obj\Debug\magic_square.exe
+C:\Users\profi\Desktop\magic_square-main\magic_square\obj\Debug\magic_square.pdb
